@@ -1,10 +1,10 @@
-# Student Email Classifier 📧
+Student Email Classifier 📧
 
 This project is a **Machine Learning-based Email Classifier** that predicts whether a student’s email falls into categories such as *academic, spam, personal, or other*. It demonstrates the use of text preprocessing, feature extraction (TF-IDF), and classification models using scikit-learn.
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 * Clean and preprocess raw email text
 * Extract features using TF-IDF vectorization
@@ -14,14 +14,14 @@ This project is a **Machine Learning-based Email Classifier** that predicts whet
 
 ---
 
-## 📌 Future Work
+📌 Future Work
 
 * Deploy as a web app using Flask/Streamlit
 * Improve dataset size & quality
 * Experiment with advanced NLP models (BERT, DistilBERT)
 
 
-## 👤 Author
+👤 Author
 
 * **Shaurya Bhaskar**
   BCA Student | AI/ML Enthusiast
